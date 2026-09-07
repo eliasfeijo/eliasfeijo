@@ -1,70 +1,21 @@
-# Hi, I'm Elias 👋
+# Hi, I'm Elias
 
-I'm a backend engineer working remotely with startups.
+Senior Software Engineer with 13+ years of experience building production systems — primarily backend engineering across fintech, banking, and SaaS environments.
 
-I specialize in one specific problem:
+## Focus
 
-**What happens after your SaaS launches and users start behaving unpredictably.**
+Backend architecture, reliability, and distributed systems. I work on systems that need to behave correctly under uncertainty: consistent state management, failure recovery, observability, and background processing.
 
-Most early-stage products don't fail because of scale.
-They fail because of inconsistent state, background job failures and edge-case user behavior.
+Primary technologies: Go, TypeScript/Node.js, Java.
 
-I help teams:
+## Evidence
 
-* stabilize APIs
-* debug production issues
-* fix slow queries
-* design sync and background processing
-* prevent data inconsistencies
-* make systems observable
+Independent projects and research as public evidence of current technical practice:
+
+- **[Go Reliability Lab](https://github.com/eliasfeijo/go-reliability-lab)** — Go architecture lab exploring distributed system reliability, concurrency patterns, observability, and production debugging
+- **[Video Annotation Interoperability Lab](https://github.com/eliasfeijo/video-annotation-interoperability-lab)** — Reproducibility research testing annotation standard interoperability with controlled methodology and scoped findings
+- **[RoomSurf (OpenChat)](https://github.com/eliasfeijo/open-chat)** — Public-first chat platform built with Next.js, WebSockets, and PostgreSQL
 
 ---
-
-## Current Focus
-
-Lately I’ve been studying reliability patterns for small SaaS systems:
-
-→ Offline-first clients
-→ Retry and idempotency strategies
-→ Notification pipelines
-→ Auth edge cases
-→ Failure recovery
-
-You can see a practical example here:
-
-**SaaS Reliability Lab**
-https://github.com/eliasfeijo/saas-reliability-lab
-
----
-
-## Experience
-
-10+ years building and maintaining web and mobile systems.
-
-Worked with:
-
-* banking applications
-* fintech startups
-* high-traffic APIs
-* real-time systems
-
-Tech I frequently use:
-Go • Node.js • PostgreSQL • Redis • Docker • Cloudflare • AWS
-
----
-
-## If you are a founder
-
-If your product recently launched and you’re seeing:
-
-* random bugs users can’t reproduce
-* jobs that sometimes run
-* notifications not sent
-* database behaving strangely
-
-That’s usually not a coding problem.
-It’s a system behavior problem.
-
-Feel free to reach out — I’m always happy to take a quick look.
 
 📧 [eliasfeijo.dev@gmail.com](mailto:eliasfeijo.dev@gmail.com)
